@@ -1,4 +1,4 @@
-# Foro Hub - API REST
+# Foro Hub (API REST) - Challenge Alura
 
 Foro Hub es una API REST desarrollada con **Spring Boot** para gestionar tópicos en un foro de discusión. Esta API permite crear, actualizar, eliminar y consultar tópicos, además de incluir autenticación y autorización para restringir el acceso a la información.
 
