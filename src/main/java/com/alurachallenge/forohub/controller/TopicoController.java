@@ -1,12 +1,11 @@
-package com.alurachallenge.forohub.controlador;
+package com.alurachallenge.forohub.controller;
 
-import com.alurachallenge.forohub.domain.modelo.Topico;
-import com.alurachallenge.forohub.domain.modelo.TopicoDTO;
-import com.alurachallenge.forohub.domain.servicio.TopicoService;
+import com.alurachallenge.forohub.domain.model.Topico;
+import com.alurachallenge.forohub.domain.model.TopicoDTO;
+import com.alurachallenge.forohub.domain.service.TopicoService;
 import jakarta.validation.Valid;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
-import org.springframework.validation.annotation.Validated;
 import org.springframework.web.bind.annotation.*;
 
 import java.time.LocalDateTime;

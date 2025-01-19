@@ -1,7 +1,7 @@
-package com.alurachallenge.forohub.domain.servicio;
+package com.alurachallenge.forohub.domain.service;
 
-import com.alurachallenge.forohub.domain.modelo.Topico;
-import com.alurachallenge.forohub.domain.repositorio.TopicoRepository;
+import com.alurachallenge.forohub.domain.model.Topico;
+import com.alurachallenge.forohub.domain.repository.TopicoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

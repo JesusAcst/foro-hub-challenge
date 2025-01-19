@@ -1,6 +1,6 @@
-package com.alurachallenge.forohub.domain.repositorio;
+package com.alurachallenge.forohub.domain.repository;
 
-import com.alurachallenge.forohub.domain.modelo.Topico;
+import com.alurachallenge.forohub.domain.model.Topico;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
